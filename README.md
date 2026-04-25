@@ -57,3 +57,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Dataset
 
 The analysis uses a loan prediction dataset containing various applicant attributes. Ensure the dataset (`train_u6lujuX_CVtuZ9i.csv` or similar) is available in your environment before running the notebook.
+
+
+contributors:
+AbramMaged
+
